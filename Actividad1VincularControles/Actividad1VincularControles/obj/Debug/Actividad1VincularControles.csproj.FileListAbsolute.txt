@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\bin\Debug\Actividad1VincularControles.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\bin\Debug\Actividad1VincularControles.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\bin\Debug\Actividad1VincularControles.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.Form1.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\Actividad1VincularControles\Actividad1VincularControles\obj\Debug\Actividad1VincularControles.pdb

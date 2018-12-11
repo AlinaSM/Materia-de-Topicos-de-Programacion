@@ -1,0 +1,6 @@
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\bin\Debug\conexionBD_Access.exe.config
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\bin\Debug\conexionBD_Access.exe
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\bin\Debug\conexionBD_Access.pdb
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\obj\Debug\conexionBD_Access.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\obj\Debug\conexionBD_Access.exe
+c:\users\alina\documents\visual studio 2012\Projects\conexionBD_Access\conexionBD_Access\obj\Debug\conexionBD_Access.pdb

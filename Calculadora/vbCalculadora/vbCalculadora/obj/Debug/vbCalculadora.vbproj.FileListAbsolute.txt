@@ -1,0 +1,10 @@
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\bin\Debug\vbCalculadora.exe.config
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\bin\Debug\vbCalculadora.exe
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\bin\Debug\vbCalculadora.pdb
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\bin\Debug\vbCalculadora.xml
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.Form1.resources
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.Resources.resources
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.vbproj.GenerateResource.Cache
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.exe
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.xml
+F:\Topicos\Calculadora\vbCalculadora\vbCalculadora\obj\Debug\vbCalculadora.pdb

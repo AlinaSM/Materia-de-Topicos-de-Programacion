@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\bin\Debug\ConvertidorNumeros.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\bin\Debug\ConvertidorNumeros.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\bin\Debug\ConvertidorNumeros.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.Form1.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConvertidorNumeros\ConvertidorNumeros\obj\Debug\ConvertidorNumeros.pdb

@@ -1,0 +1,11 @@
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\bin\Debug\AplicacionActProyectosEmpleados.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\bin\Debug\AplicacionActProyectosEmpleados.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\bin\Debug\AplicacionActProyectosEmpleados.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.Form1.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.proyectos.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\AplicacionActProyectosEmpleados\AplicacionActProyectosEmpleados\obj\Debug\AplicacionActProyectosEmpleados.empleados.resources

@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\bin\Debug\FormasFiguras.exe.config
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\bin\Debug\FormasFiguras.exe
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\bin\Debug\FormasFiguras.pdb
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.Form1.resources
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.Properties.Resources.resources
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.csproj.GenerateResource.Cache
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.exe
+c:\users\alina\documents\visual studio 2012\Projects\FormasFiguras\FormasFiguras\obj\Debug\FormasFiguras.pdb

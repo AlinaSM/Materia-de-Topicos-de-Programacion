@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\JuegoPalabras\JuegoPalabras\bin\Debug\JuegoPalabras.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\bin\Debug\JuegoPalabras.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\bin\Debug\JuegoPalabras.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.Form1.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\JuegoPalabras\JuegoPalabras\obj\Debug\JuegoPalabras.pdb

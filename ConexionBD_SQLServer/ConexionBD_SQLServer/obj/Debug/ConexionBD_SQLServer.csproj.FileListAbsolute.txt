@@ -1,0 +1,6 @@
+c:\users\alina\documents\visual studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\bin\Debug\ConexionBD_SQLServer.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\bin\Debug\ConexionBD_SQLServer.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\bin\Debug\ConexionBD_SQLServer.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\obj\Debug\ConexionBD_SQLServer.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\obj\Debug\ConexionBD_SQLServer.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\ConexionBD_SQLServer\ConexionBD_SQLServer\obj\Debug\ConexionBD_SQLServer.csprojResolveAssemblyReference.cache

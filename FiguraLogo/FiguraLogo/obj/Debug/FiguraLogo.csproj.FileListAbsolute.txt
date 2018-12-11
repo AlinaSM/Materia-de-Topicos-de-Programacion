@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\FiguraLogo\FiguraLogo\bin\Debug\FiguraLogo.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\bin\Debug\FiguraLogo.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\bin\Debug\FiguraLogo.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.Form1.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\FiguraLogo\FiguraLogo\obj\Debug\FiguraLogo.pdb

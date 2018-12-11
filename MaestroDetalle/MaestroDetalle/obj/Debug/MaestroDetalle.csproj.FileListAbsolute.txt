@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.exe.config
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.exe
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\bin\Debug\MaestroDetalle.pdb
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.Form1.resources
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.Properties.Resources.resources
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.GenerateResource.Cache
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.exe
+c:\users\alina\documents\visual studio 2012\Projects\MaestroDetalle\MaestroDetalle\obj\Debug\MaestroDetalle.pdb

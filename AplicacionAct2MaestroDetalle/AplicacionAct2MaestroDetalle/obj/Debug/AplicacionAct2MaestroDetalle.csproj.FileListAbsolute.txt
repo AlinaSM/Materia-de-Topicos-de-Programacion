@@ -1,0 +1,9 @@
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\bin\Debug\AplicacionAct2MaestroDetalle.exe.config
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\bin\Debug\AplicacionAct2MaestroDetalle.exe
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\bin\Debug\AplicacionAct2MaestroDetalle.pdb
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.csprojResolveAssemblyReference.cache
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.Form1.resources
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.Properties.Resources.resources
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.csproj.GenerateResource.Cache
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.exe
+c:\users\alina\documents\visual studio 2012\Projects\AplicacionAct2MaestroDetalle\AplicacionAct2MaestroDetalle\obj\Debug\AplicacionAct2MaestroDetalle.pdb

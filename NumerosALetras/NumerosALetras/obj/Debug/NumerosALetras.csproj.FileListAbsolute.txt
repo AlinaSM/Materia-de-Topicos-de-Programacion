@@ -1,0 +1,13 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.pdb
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csprojResolveAssemblyReference.cache
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Properties.Resources.resources
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csproj.GenerateResource.Cache
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb
+C:\Users\alina\Documents\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+C:\Users\alina\Documents\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+C:\Users\alina\Documents\Visual Studio 2012\Projects\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb

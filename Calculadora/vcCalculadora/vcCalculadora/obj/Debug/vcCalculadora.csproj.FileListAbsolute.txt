@@ -1,0 +1,9 @@
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\bin\Debug\vcCalculadora.exe.config
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\bin\Debug\vcCalculadora.exe
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\bin\Debug\vcCalculadora.pdb
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.csprojResolveAssemblyReference.cache
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.Form1.resources
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.Properties.Resources.resources
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.csproj.GenerateResource.Cache
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.exe
+F:\Topicos\Calculadora\vcCalculadora\vcCalculadora\obj\Debug\vcCalculadora.pdb
